@@ -1,4 +1,4 @@
 cms_core
 ========
 
-cms app
+Un cms sobre el framework Mazatleca
